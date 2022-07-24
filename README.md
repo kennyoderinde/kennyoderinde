@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Polite Security project 
-- 🌱 I’m currently learning Javascript functionalities to the projects.
-- 👯 I’m looking to collaborate on with other team 5 members 
-- 🤔 I’m looking for help ...
+- 🔭 This repo is created for my Stuttern assignment on html
+- 🌱 I've learnt git and I am now working to deploy my html works on github
+- 👯 I'll be hosting a few of my assignment also. 
+- 🤔 I’m
 - 💬 Ask me aboutwhat my nest project will be.
 - 📫 How to reach me: email me on kennyoderyndeh@gmail.com
 - 😄 Pronouns: ...
