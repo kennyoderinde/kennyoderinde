@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> 
+        </title>
+    </head>
+    <body>
+        <!-- Form Practice-->
+        <form action  =""  method="post">
+            <label> Name </label>
+            <input type= "text"required/><br/><br/>
+
+            <label> Password</label>
+            <input type="password"/><br/><br/>
+
+            <label>Date of Registration </label>
+            <input type="datetime-local"required/><br/><br/>
+
+            <label>Age</label>
+            <input type="number" min="5" max="85" required/><br/><br/>
+
+            <label>Gender</label> 
+            <input type="text"required/><br/><br/>
+
+            <label>File upload</label>
+            <input type="file" accept="image/jpg, image/png,"/><br/><br/>
+
+
+            <!--Creating a Radio Button in a form-->
+            <label>What's your religion?</label><br/><br/>
+            <input type="radio" id="Christianity" value="Christianity" name="Religion"/>
+            <label for="Christianity"> Christianity </label>
+            <input type="radio" id="Islam" value="Christianity" name="Religion"/>
+            <label for="Islam">Islam</label><br/><br/>
+            <input type="radio" id="Buddhism" value="Buddhism" name="Religion"/>
+            <label for="Buddhism">Buddhism</label>
+            <input type="radio" id="Traditionalist" value="Traditionalist" name="Religion"/>
+            <label for="Traditionalist">Traditionalist</label><br/><br/>
+
+            <!--Creating Radio buttons for social class-->
+            <label>What Social Class do you think you belong to?</label><br/><br/>
+            <input type="radio" id="Upper-class" value="Upper-class" name="Social Class"/>
+            <label for="Upper-Class">Upper-Class</label>
+            <input type="radio" id="Middle-class" value="Middle-class" name="Social Class"/>
+            <label for="Middle-class">Middle-class</label>
+            <input type="radio" id="Lower Class" value="Lower Class" name="Social Class"/>
+            <label for="Lower Class">Lower Class</label><br/><br/>
+
+            <!--Checkboxes are used for for one questn with 2 optns-->
+            <input type="checkbox" id="newsletter" checked/>
+            <label for="newsletter" >Join our Newsletter</label><br/><br/>
+
+            <!--for select dropdowns-->
+            <label>Do you wish to join us?</label>
+            <select name="Church"> 
+                <option value="Yes">Yes </option>
+                <option value="No">No</option>
+                </option>
+            </select><br/><br/>
+           
+              <input type="submit"/>
+        </form>
+
+    </body>
+        <html/>
+
+</html>
